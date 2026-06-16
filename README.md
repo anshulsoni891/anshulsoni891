@@ -1,75 +1,203 @@
-# Anshul-intro
-<!-- Profile README for anshulsoni891 -->
+# Hi 👋, I'm Anshul Soni
 
-<h1 align="center">Hi 👋, I'm Anshul Soni</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full-Stack Software Engineer | MERN Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anshulsoni891&label=Profile%20views&color=0e75b6&style=flat" alt="anshulsoni891" />
+  <a href="mailto:anshulsoni891@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://github.com/anshulsoni891">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Apps**
-- 🌱 I’m learning **Next.js, TypeScript, and Cloud Technologies**
-- 💬 Ask me about **React, Node.js, Express, MongoDB, SQL, and modern web dev**
-- 📫 How to reach me: **anshulsoni891@gmail.com**
-- 🌐 Portfolio: [YourPortfolio.com](https://yourportfolio.com)
+💻 Full-Stack Software Engineer passionate about building scalable web applications and AI-powered solutions.
+
+🎓 Pursuing **Bachelor of Engineering in Computer Science & Engineering** at **Chandigarh University** (Expected 2027).
+
+🌱 Currently exploring:
+
+* Next.js
+* Cloud Architecture (AWS & Azure)
+* System Design
+* AI & Generative AI Applications
+
+⚡ What I enjoy building:
+
+* High-performance Full-Stack Applications
+* Real-Time Systems
+* Microservices Architecture
+* AI-Powered Products
+* Cloud-Native Applications
+
+📍 Chandigarh, India
 
 ---
 
-### 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />&nbsp;
-</p>
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square\&logo=typescript)
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square\&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=flat-square\&logo=java)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vuedotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square\&logo=bootstrap)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square\&logo=mui)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square\&logo=express)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat-square\&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat-square\&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=flat-square\&logo=mysql)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square\&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square\&logo=jenkins)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git)
+
+### AI / ML
+
+* Machine Learning
+* NLP
+* Computer Vision
+* Scikit-Learn
+* TensorFlow
+* BERT
+* Generative AI
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 💼 Experience
+
+### Frontend Web Developer | Upzenix
+
+📅 Nov 2025 – Present
+
+* Built responsive applications using React.js, Vue.js, and TypeScript.
+* Improved user engagement by 40% through optimized UI/UX.
+* Reduced page load time by 35% using code splitting and lazy loading.
+* Integrated REST APIs and managed application state with Redux.
+
+### Software Engineering Intern | Chandigarh University
+
+📅 Jun 2025 – Sep 2025
+
+* Developed full-stack applications using PHP, MySQL, and REST APIs.
+* Implemented JWT, OAuth 2.0, and RBAC authentication systems.
+* Optimized SQL queries and database architecture for better performance.
+
+---
+
+## 🚀 Featured Projects
+
+### 📈 Zerodha Clone – Stock Trading Platform
+
+**Tech:** MERN Stack, Redux, WebSocket, JWT, Docker, Chart.js
+
+* Real-time stock trading platform.
+* Portfolio management dashboard.
+* Live market data visualization.
+* Secure authentication and authorization.
+
+### 🤖 AI-Powered Chatbot Platform
+
+**Tech:** Python, TensorFlow, BERT, Flask, React.js, MongoDB
+
+* Conversational AI using BERT transformers.
+* Real-time WebSocket communication.
+* Scalable architecture supporting 1000+ concurrent users.
+* Optimized latency through asynchronous processing.
+
+### 🛒 E-Commerce Marketplace
+
+**Tech:** Laravel, Vue.js, MySQL, Redis, Elasticsearch, Stripe
+
+* Stripe payment integration.
+* Elasticsearch-powered product search.
+* Redis caching for performance.
+* Dockerized deployment pipeline.
+
+---
+
+## 🏆 Certifications
+
+🏅 Microsoft Certified: Azure AI Engineer Associate
+
+🏅 Introduction to Generative AI – Google Cloud
+
+🏅 National IP Awareness Mission (NIPAM)
+
+---
+
+## 🎯 Leadership & Community
+
+### Joint Secretary – Blockchain Club
+
+Chandigarh University
+
+* Leading a team of 15+ students.
+* Mentoring developers on Blockchain, AR/VR, and emerging technologies.
+* Organizing technical workshops and innovation initiatives.
+
+### Campus Ambassador – Internshala
+
+* Promoted career development programs.
+* Organized student outreach campaigns impacting 500+ students.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshulsoni891&show_icons=true&locale=en" alt="anshulsoni891" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni891" alt="anshulsoni891" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anshulsoni891&layout=compact" alt="anshulsoni891" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anshulsoni891&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- [Project 1 Name](https://github.com/anshulsoni891/project1): Short project description.
-- [Project 2 Name](https://github.com/anshulsoni891/project2): Short project description.
-- [Project 3 Name](https://github.com/anshulsoni891/project3): Short project description.
-
-*Pin your top repositories on GitHub to feature them above!*
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" /></a>
-  <a href="mailto:anshulsoni891@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" /></a>
-  <a href="https://twitter.com/your-twitter" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" /></a>
-</p>
-
----
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulsoni891&theme=tokyonight" />
 </p>
 
-<!--
-**anshulsoni891/anshulsoni891** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulsoni891&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+* 📧 Email: [anshulsoni891@gmail.com](mailto:anshulsoni891@gmail.com)
+* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 🐙 GitHub: https://github.com/anshulsoni891
+
+---
+
+### 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code." — John Johnson
+
+---
+
+⭐ If you like my work, consider following me and checking out my repositories!
