@@ -189,7 +189,7 @@ Chandigarh University
 ## 📫 Let's Connect
 
 * 📧 Email: [anshulsoni891@gmail.com](mailto:anshulsoni891@gmail.com)
-* 💼 LinkedIn: YOUR_LINKEDIN_URL
+* 💼 LinkedIn: https://www.linkedin.com/in/anshul-soni-278a11289/
 * 🐙 GitHub: https://github.com/anshulsoni891
 
 ---
